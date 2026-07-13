@@ -13,7 +13,7 @@ Neste momento, estou dando os meus primeiros passos no universo da tecnologia. S
 
 ## O que estou aprendendo / tecnologias:
 Como estou no início da minha jornada acadêmica, estou focado em dominar os fundamentos:
-- Lógica de Programação
+- Lógica de Programação, Python, Java, MySQL
 - Versionamento com Git e GitHub
 *(Em breve adicionarei mais tecnologias conforme avançar no curso!)*
 
