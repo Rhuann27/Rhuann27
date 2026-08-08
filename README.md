@@ -1,8 +1,8 @@
 # Olá, eu sou o Rhuann! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhuann27&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Rhuann" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgfabris&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ## Sobre Mim
 Neste momento, estou dando os meus primeiros passos no universo da tecnologia. Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI Porto** (Vitória/ES), focado em construir uma base sólida em lógica e desenvolvimento de software.
