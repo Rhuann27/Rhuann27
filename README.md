@@ -1,21 +1,19 @@
-# Olá, eu sou o Rhuann! 👋
+# Olá, eu sou Rhuann! 👋
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgfabris&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI Porto, em Vitória (ES). Uso este perfil para registrar minha evolução em programação e reunir os projetos desenvolvidos durante a formação.
 
-## Sobre Mim
-Neste momento, estou dando os meus primeiros passos no universo da tecnologia. Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI Porto** (Vitória/ES), focado em construir uma base sólida em lógica e desenvolvimento de software.
+## Em aprendizado
 
--  Cursando Desenvolvimento de Sistemas (SENAI Porto).
--  Vitória - ES, Brasil.
--  Curiosidade: Estou usando este perfil para documentar toda a minha evolução na programação, desde os primeiros códigos!
+- Lógica de programação
+- Python e Java
+- MySQL
+- Git e GitHub
 
-## O que estou aprendendo / tecnologias:
-Como estou no início da minha jornada acadêmica, estou focado em dominar os fundamentos:
-- Lógica de Programação, Python, Java, MySQL
-- Versionamento com Git e GitHub
-*(Em breve adicionarei mais tecnologias conforme avançar no curso!)*
+## Objetivo
 
-## Vamos nos conectar?
-Se quiser acompanhar minha jornada ou trocar uma ideia, você pode me encontrar nas redes que deixei fixadas no meu perfil principal!
+Construir uma base sólida em desenvolvimento de software, praticando desde os fundamentos até projetos completos.
+
+## Contato
+
+As redes e formas de contato estão disponíveis no perfil principal do GitHub.
+
