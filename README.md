@@ -1,5 +1,9 @@
 # Olá, eu sou Rhuann! 👋
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhuann27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 Sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI Porto, em Vitória (ES). Uso este perfil para registrar minha evolução em programação e reunir os projetos desenvolvidos durante a formação.
 
 ## Em aprendizado
